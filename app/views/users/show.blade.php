@@ -1,0 +1,1 @@
+/vagrant/sites/ramon.dev/app/views/users/show.blade.php
