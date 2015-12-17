@@ -1,1 +1,6 @@
-/vagrant/sites/ramon.dev/app/views/posts/index.blade.php
+@extends('layouts.master')
+@section('content')
+
+<p>testing</p>
+
+@stop
